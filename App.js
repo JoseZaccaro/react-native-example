@@ -16,6 +16,12 @@ const Stack = createStackNavigator();
 const Drawer = createDrawerNavigator();
 const Tab = createBottomTabNavigator();
 
+// <View style={styles.container}>
+//   <Header />
+//   <Home />
+//   <Mangas/>
+// </View>
+
 export default function App() {
   
   return (
